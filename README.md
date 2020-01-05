@@ -14,7 +14,7 @@ pretty easy. Follow https://home-assistant.io/hassio/installing_third_party_addo
 website of Home Assistant, and use the following URL:
 
 ```
-https://github.com/carstenschroeder/hassio-addons/
+https://github.com/pflaugh/hassio-addons/
 ```
 
 ## Add-ons provided by this repository
